@@ -6,5 +6,5 @@
    
    
 --To test the project
-  1. run npm install(if not tun before)
+  1. run npm install(if not run before)
   2. run npm test
